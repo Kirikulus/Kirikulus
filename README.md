@@ -65,11 +65,9 @@
 
 ## Connect with me  
 <a href="https://github.com/Kirikulus" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;" />
 </a>
 <a href="https://t.me/ZoV_SLON" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="40" style="margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="40" style="margin-bottom: 5px; margin-right: 10px;" />
 </a>
-
-
 <br/>
