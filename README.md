@@ -67,9 +67,7 @@
 <a href="https://github.com/Kirikulus" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/zov_slon" target="_blank">
-<img src="https://img.shields.io/badge/zov_slon%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord - zov_slon"/>
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ZoV_SLON)  
 </p> 
 
 <br/>
