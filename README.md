@@ -63,6 +63,8 @@
 
 [![codewars](https://www.codewars.com/users/kirikulus/badges/large)](https://www.codewars.com/users/kirikulus)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kirikulus&theme=onedark)
+
 ## My Description
 
 Приветствую на моем GitHub! Я увлеченный разработчик, постоянно расширяющий свои знания и навыки. Моя страсть не ограничивается кодом: я также пишу сюжеты и занимаюсь геймдизайном, вдыхая жизнь в каждую игру, которую мы создаем. Вместе с моей командой, SS GC Omnipotens, мы стремимся к совершенству, разрабатывая игры, которые превосходят ожидания. Наша цель — поднять стандарты русского геймдева, предлагая только самые качественные и инновационные проекты.
