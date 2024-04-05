@@ -5,7 +5,7 @@
 </h1>
 
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
 
 - 🦁 Руководитель SS GC Omnipotens  
   
@@ -89,4 +89,8 @@
 <a href="https://t.me/ZoV_SLON" target="_blank">
 <img src="https://img.shields.io/badge/ZoV_SLON-black?style=for-the-badge&logo=Telegram&logoColor=white"/
 </a> 
+
+###
+
+###
 <br/>
