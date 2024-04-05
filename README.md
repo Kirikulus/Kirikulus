@@ -4,8 +4,9 @@
   </a>
 </h1>
 
-<a href="https://t.me/ZoV_SLON"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram" style="height:40px!important;" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
+<a href="https://t.me/ZoV_SLON"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram" style="height:40px!important; vertical-align:middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
+
+<hr style="border:0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 
 
 - 🦁 Руководитель SS GC Omnipotens  
@@ -64,7 +65,9 @@
 
 [![codewars](https://www.codewars.com/users/kirikulus/badges/large)](https://www.codewars.com/users/kirikulus)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kirikulus&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kirikulus&theme=discord)
+
+
 
 ## My Description
 
