@@ -4,9 +4,11 @@
   </a>
 </h1>
 
-<a href="https://t.me/ZoV_SLON"><img src="https://i.postimg.cc/wBfcnQ1V/telegram-icon-icons-com-72055.png" style="height:40px!important; vertical-align:middle;" /></a>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
+<p>
+    <a href="https://t.me/ZoV_SLON"><img src="https://i.postimg.cc/wBfcnQ1V/telegram-icon-icons-com-72055.png" style="height:40px!important; " />
+    <img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus" style="height:20px!important;  "  />
+        
+  </p>
 
 <hr style="border:0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 
