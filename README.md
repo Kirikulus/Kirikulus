@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-<a href="https://t.me/ZoV_SLON"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram" style="height:40px!important; vertical-align:middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
+<a href="https://t.me/ZoV_SLON"><img src="https://i.postimg.cc/wBfcnQ1V/telegram-icon-icons-com-72055.png" style="height:40px!important; vertical-align:middle;" /></a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
 
 <hr style="border:0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 
@@ -69,11 +71,13 @@
 
 
 
+
 ## My Description
 
 Приветствую на моем GitHub! Я увлеченный разработчик, постоянно расширяющий свои знания и навыки. Моя страсть не ограничивается кодом: я также пишу сюжеты и занимаюсь геймдизайном, вдыхая жизнь в каждую игру, которую мы создаем. Вместе с моей командой, SS GC Omnipotens, мы стремимся к совершенству, разрабатывая игры, которые превосходят ожидания. Наша цель — поднять стандарты русского геймдева, предлагая только самые качественные и инновационные проекты.
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+
 - Понимание синтаксиса и особенностей языка.
 - Знаком с многопоточностью, Linq.
 - Четкое понимание и применение концепций наследования, инкапсуляции, полиморфизма и абстракции.
@@ -83,7 +87,14 @@
 - Паттерны проектирования: Стратегия, Наблюдатель, Абстрактная Фабрика, Синглтон.
 - Более 100 практических задач.
 - 3 крупных проекта.
+  
+<a href="https://www.articy.com/en/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/NfxxtcVb/photo-2024-04-05-17-11-212.png" alt="Articy" height="50" /></a>
 
+- Использование articy:draft 3 для нарративной разработки: диалоги, персонажи, сюжеты.
+- Разработка комплексной диалоговой системы для визуальной новеллы, улучшение интерактивности.
+- Детальное проектирование персонажей, сцен и ключевых сюжетных моментов.
+- Ведение проектов в разных жанрахю.
+- 
 ## Work experience
 
 Проходил двухмесячную стажировку QA в компании Astra.
