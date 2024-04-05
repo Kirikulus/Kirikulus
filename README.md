@@ -5,7 +5,11 @@
 </h1>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kirikulus.kirikulus)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/ZoV_SLON"><img src="https://img.shields.io/badge/ZoV_SLON-black?style=for-the-badge&logo=Telegram&logoColor=yellow"/></a>
+
+
+
+
 
 - 🦁 Руководитель SS GC Omnipotens  
   
@@ -84,13 +88,3 @@
 
 Проходил двухмесячную стажировку QA в компании Astra.
 Занимался ручным тестированием ОС, дополнительно обучался автоматизированному тестированию.
-
-## Connect with me  
-<a href="https://t.me/ZoV_SLON" target="_blank">
-<img src="https://img.shields.io/badge/ZoV_SLON-black?style=for-the-badge&logo=Telegram&logoColor=white"/
-</a> 
-
-###
-
-###
-<br/>
