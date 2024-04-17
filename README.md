@@ -60,7 +60,10 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a> 
+<a href="https://www.articy.com/en/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/NfxxtcVb/photo-2024-04-05-17-11-212.png" alt="Articy" height="50" /></a>
+<a href="https://www.docker.com/get-started/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/VvG9qCWp/file-type-docker-icon-130643.png" alt="Docker" height="60" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/dQr7PXkX/rabbitmq-logo-icon-170810.png" alt="RabbitMQ" height="42" /></a>
 </div>
 
 </td></tr></table>  
